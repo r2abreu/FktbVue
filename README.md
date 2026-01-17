@@ -1,7 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d254ee34-4e47-4cda-ae38-b11b372b26c7/deploy-status)](https://app.netlify.com/sites/faketube/deploys)
 
-# El Faketube
-
 ![Screenshot](punlic/../public/assets/screenshot.png)
 
 Mi primera aplicación en Vue.js, creada para poder practicar y aprender más de V3 y Vuex.
